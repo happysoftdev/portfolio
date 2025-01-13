@@ -1,4 +1,4 @@
-title: Happysoftdev
+title: Happysoftdev title
 # logo: /assets/ - relative path to the image
 # description maybe here
-theme: jekyll-theme-minimal #this is the key thing for using jekyll
+theme: minima
