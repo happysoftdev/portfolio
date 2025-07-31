@@ -4,10 +4,7 @@
 Bachelor's degree, Computer science 
 
 ### Work experience 
-iOS Developer
-- working here since 2022
-Mobile Developer
-- 2021 - 2022
+iOS Developer since 2019
 
 ### Projects
 MyExpenses 
